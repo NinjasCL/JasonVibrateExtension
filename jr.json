@@ -5,7 +5,7 @@
   "platform": "ios",
   "language" : "objective-c",
   "author" : "Camilo Castro <camilo@ninjas.cl>",
-  "href" : "https://github.com/NinjasCL/JasonDateAction",
+  "href" : "https://github.com/NinjasCL/JasonVibrationAction",
   "license" : "MIT",
   "description": "$vibration.activate makes the device vibrate."
 }

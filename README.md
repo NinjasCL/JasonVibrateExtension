@@ -1,4 +1,4 @@
-# JasonVibrateAction
+# JasonVibrationAction
 A Simple Extension for Activating The Phone Vibration (iOS)
 
 For use with 

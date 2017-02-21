@@ -25,5 +25,7 @@ Activates the Phone Vibration.
 }
 ```
 
+### Test App
+[https://raw.githubusercontent.com/NinjasCL/JasonVibrationAction/master/test.json](https://raw.githubusercontent.com/NinjasCL/JasonVibrationAction/master/test.json)
 
 Made with <i class="fa fa-heart">&#9829;</i> by <a href="http://ninjas.cl" target="_blank">Ninjas.cl</a>.
